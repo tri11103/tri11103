@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tri11103
 - 👀 You can also find me on Github @tristandamron
 - 💡 I’m interested in GIS, software testing, teaching/mentoring, game development
-- 🎮 I'm currently playing: Warhammer Age of Sigmar, GTA V, Legend of Zelda Breath of the Wild 
+- 🎮 I'm currently playing: Keyforge, GTA V, Resident Evil 7, Slime Rancher 
 - 💻 My portfolio: wwww.tristandamron.com
 
 <!---
